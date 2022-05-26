@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuel-oliveira&label=Profile%20views&color=0e75b6&style=flat" alt="samuel-oliveira" /> </p>
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-oliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="samuel-oliveira" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Samuel-Oliveira&theme=dark&date_format=j%2Fn%5B%2FY%5D" alt="samuel-oliveira" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=samuel-oliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="samuel-oliveira" />
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com?user=Samuel-Oliveira&theme=dark&date_format=j%2Fn%5B%2FY%5D" alt="samuel-oliveira" />
 </div>
 
 <h3 align="left">Connect with me:</h3>
